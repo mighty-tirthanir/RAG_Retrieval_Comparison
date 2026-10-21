@@ -1,0 +1,16 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+env/
+
+# Conda and secrets
+.env
+.env.*
+!.env.example
+
+# Generated files and caches
+.pytest_cache/
+.ipynb_checkpoints/
+.cache/

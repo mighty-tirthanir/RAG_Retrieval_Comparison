@@ -1,0 +1,23 @@
+﻿query_id,question,expected_answer,expected_pages,answerable,notes
+Q01,What must BIT students carry at all times?,A valid Identity Card issued by the Institute.,5,True,"Code of Conduct, rule 1.2"
+Q02,Who must give prior permission before notices are put on hostel notice boards?,The Warden or Assistant Warden must give prior permission.,5,True,"Code of Conduct, rule 1.3"
+Q03,Whose permission is needed to leave the hostel between 9:00 pm and 6:00 am?,Prior permission from the Hostel Warden or Assistant Warden is required.,5,True,"Code of Conduct, rule 1.5"
+Q04,Are students allowed to use pirated or unlicensed software on their devices?,"No. Pirated, unauthorised or unlicensed movies and software must not be used.",6,True,"Code of Conduct, rule 1.12"
+Q05,What is the required escalation order for a hostel-related complaint?,"Hostel Clerk, then Assistant Warden/Warden, then AR (Hostel), and then Associate Dean (Student Affairs) for Hostel Management.",9,True,"Complaint/grievance escalation matrix, rule 1.43-A"
+Q06,What must a visitor do when entering a hostel?,The visitor must make the required entry in the visitor book at the hostel entrance with the security guard.,10,True,"Guests/Visitors, rule 2.5"
+Q07,By what time must boy students be inside the hostel?,Boy students must be inside the hostel before 10:00 pm.,5;11,True,"Code of Conduct, rules 1.4 and 3.9"
+Q08,Are induction cooktops and private cooking allowed in hostel rooms?,"No. High-power electrical appliances such as induction cooktops are prohibited, and private cooking is not allowed.",7;11,True,"Code of Conduct, rule 1.23; discipline, rule 3.12"
+Q09,What does the document say about ragging?,Ragging of students admitted to the Institute is totally banned.,9;13,True,"Code of Conduct, rule 1.42; discipline, rule 3.26"
+Q10,Whom should a student report an accident or theft to?,"It should be reported promptly to the Hostel Clerk, Assistant Warden/Warden, Head of Section (Security), Associate Dean/Dean of Student Affairs, or an Institute authority.",9,True,"Code of Conduct, rule 1.43"
+Q11,Which no-dues clearances are required before the end-semester examination?,Students must obtain no-dues clearance from the Institute Accounts Office and the Students Mess Accounts Office.,15,True,"Mandatory at registration and before examination, section 4.4"
+Q12,By what date should students clear their monthly mess dues?,By the 15th of every month.,15,True,Section 4.4
+Q13,Whom should students contact for academic matters?,"Their respective HOD, Semester Coordinator, Dean (UGS), or Dean (PGS).",16,True,"Whom to Contact, section 6.1"
+Q14,What are the Central Library opening hours on weekdays and weekends?,Monday to Friday: 9 am to 9 pm. Saturday and Sunday: 10 am to 6 pm.,16,True,"Academic Facilities, section 6.2"
+Q15,What is the extension number for the Examination Office?,The extension number is 4142.,17,True,"Important Phone Contacts, section 6.5"
+Q16,How far in advance should permission for a hostel guest be requested?,Permission should be obtained at least two days before the guest arrives.,9;10,True,"Guests/Visitors, rules 2.1 and 2.4"
+Q17,Can students use two-wheelers or four-wheelers on campus?,"The document states that students’ use of power-driven vehicles, including two-wheelers and four-wheelers, is banned.",8;12,True,"Code of Conduct, rule 1.34; discipline, rule 3.18"
+Q18,"What are the consequences listed for one, two, three, four, and five black dots?",One: strict warning. Two: strict warning and barred from student activities. Three: strict warning and barred from campus placement. Four: strict warning and semester back for 1–2 years. Five: condemnation and permanent expulsion.,13,True,Meaning of Black Dots
+Q19,Which email account should students use for official communication with BIT?,Students must use their BIT Mesra domain email ID; personal email IDs may not receive a response.,9,True,"Code of Conduct, rule 1.46-A"
+Q20,Where should hostel residents park their cycles?,"Cycles must be parked neatly in the designated space, not at the hostel entrance or in corridors.",8;11,True,"Code of Conduct, rule 1.33; discipline, rule 3.17"
+Q21,What is the current Wi-Fi password for the BIT Mesra campus?,The document does not specify the Wi-Fi password.,,False,Unanswerable from the supplied document; tests abstention
+Q22,What is the exact rupee amount of the fine for using a prohibited electrical appliance?,"The document says prohibited appliances may be confiscated and a fine may be imposed, but it does not specify an exact rupee amount.",7;11,True,"The passage is relevant, but the requested exact amount is not provided"
